@@ -1,5 +1,5 @@
 {
-  "total_solved": 985,
+  "total_solved": 990,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -985,7 +985,12 @@
     "P3BAR",
     "CO92JUDG",
     "SPMISS",
-    "ADACRA"
+    "ADACRA",
+    "SNUG_FIT",
+    "ASSIGNSCORE",
+    "INTSEQ",
+    "JDELAY",
+    "DELNQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7920,6 +7925,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 18:07:05"
+    },
+    {
+      "code": "SNUG_FIT",
+      "name": "School of Geometry",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-19 19:39:23"
+    },
+    {
+      "code": "ASSIGNSCORE",
+      "name": "Assignment Score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 19:40:49"
+    },
+    {
+      "code": "INTSEQ",
+      "name": "An Interesting Sequence",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-19 19:42:07"
+    },
+    {
+      "code": "JDELAY",
+      "name": "Judging Delay",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 19:43:36"
+    },
+    {
+      "code": "DELNQ",
+      "name": "Delete Not Equal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 19:44:57"
     }
   ]
 }
