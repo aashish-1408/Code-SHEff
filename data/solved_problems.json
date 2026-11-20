@@ -1,5 +1,5 @@
 {
-  "total_solved": 997,
+  "total_solved": 1001,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -997,7 +997,11 @@
     "REMOVEMUL",
     "CHNUM",
     "EVENSUMSUB",
-    "FOODRES"
+    "FOODRES",
+    "CONVEYOR",
+    "FIGBOT",
+    "SUMPOS",
+    "CARRANGE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8016,6 +8020,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-20 21:37:33"
+    },
+    {
+      "code": "CONVEYOR",
+      "name": "Conveyor Belt",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:24:55"
+    },
+    {
+      "code": "FIGBOT",
+      "name": "FightBots",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-20 23:26:53"
+    },
+    {
+      "code": "SUMPOS",
+      "name": "Pair Me",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:28:38"
+    },
+    {
+      "code": "CARRANGE",
+      "name": "Car Range",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:29:40"
     }
   ]
 }
