@@ -10,7 +10,7 @@ on:
     # 3. Evening (~07:18 PM IST)
     - cron: '48 13 * * *'
     # 4. Late Night (~11:21 PM IST)
-    - cron: '51 17 * * *'
+    - cron: '52 17 * * *'
 
   workflow_dispatch: # Allows manual one-click trigger from GitHub Actions
 
