@@ -1,5 +1,5 @@
 {
-  "total_solved": 990,
+  "total_solved": 995,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -990,7 +990,12 @@
     "ASSIGNSCORE",
     "INTSEQ",
     "JDELAY",
-    "DELNQ"
+    "DELNQ",
+    "STAIRCASE7",
+    "HOSTELROOM",
+    "TRUEDARE",
+    "REMOVEMUL",
+    "CHNUM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -7960,6 +7965,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 19:44:57"
+    },
+    {
+      "code": "STAIRCASE7",
+      "name": "Staircase Edits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 11:35:11"
+    },
+    {
+      "code": "HOSTELROOM",
+      "name": "Hostel Room",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 11:36:59"
+    },
+    {
+      "code": "TRUEDARE",
+      "name": "Truth and Dare",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 11:38:24"
+    },
+    {
+      "code": "REMOVEMUL",
+      "name": "Remove Multiples",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 11:40:42"
+    },
+    {
+      "code": "CHNUM",
+      "name": "Chef and Number Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 11:42:09"
     }
   ]
 }
