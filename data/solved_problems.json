@@ -1,5 +1,5 @@
 {
-  "total_solved": 995,
+  "total_solved": 997,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -995,7 +995,9 @@
     "HOSTELROOM",
     "TRUEDARE",
     "REMOVEMUL",
-    "CHNUM"
+    "CHNUM",
+    "EVENSUMSUB",
+    "FOODRES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8000,6 +8002,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 11:42:09"
+    },
+    {
+      "code": "EVENSUMSUB",
+      "name": "Even Sum Subarray",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-20 21:35:43"
+    },
+    {
+      "code": "FOODRES",
+      "name": "Food Resources",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-20 21:37:33"
     }
   ]
 }
