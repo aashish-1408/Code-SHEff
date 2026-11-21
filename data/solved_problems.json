@@ -1,5 +1,5 @@
 {
-  "total_solved": 1007,
+  "total_solved": 1010,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1007,7 +1007,10 @@
     "RBLT",
     "BORROWBOOK",
     "DEPCHEF",
-    "BUDGET25"
+    "BUDGET25",
+    "ACMDT",
+    "DISPAL",
+    "FINALSUM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8098,6 +8101,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 20:17:59"
+    },
+    {
+      "code": "ACMDT",
+      "name": "Accommodation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 22:28:26"
+    },
+    {
+      "code": "DISPAL",
+      "name": "Distinct Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 22:30:16"
+    },
+    {
+      "code": "FINALSUM",
+      "name": "Final Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 22:31:28"
     }
   ]
 }
