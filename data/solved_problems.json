@@ -1,5 +1,5 @@
 {
-  "total_solved": 1001,
+  "total_solved": 1003,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1001,7 +1001,9 @@
     "CONVEYOR",
     "FIGBOT",
     "SUMPOS",
-    "CARRANGE"
+    "CARRANGE",
+    "CHEFING",
+    "ELECTION1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8048,6 +8050,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 23:29:40"
+    },
+    {
+      "code": "CHEFING",
+      "name": "Chef and Secret Ingredients",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 13:03:51"
+    },
+    {
+      "code": "ELECTION1",
+      "name": "Election",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 13:05:40"
     }
   ]
 }
