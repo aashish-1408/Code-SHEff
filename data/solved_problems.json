@@ -1,5 +1,5 @@
 {
-  "total_solved": 1004,
+  "total_solved": 1007,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1004,7 +1004,10 @@
     "CARRANGE",
     "CHEFING",
     "ELECTION1",
-    "RBLT"
+    "RBLT",
+    "BORROWBOOK",
+    "DEPCHEF",
+    "BUDGET25"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1046,7 +1049,8 @@
     "DSCPPAS266",
     "CHEFEZQ",
     "DSACPR66",
-    "ANDOR"
+    "ANDOR",
+    "CRZBISHOP"
   ],
   "history": [
     {
@@ -8073,6 +8077,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 16:44:27"
+    },
+    {
+      "code": "BORROWBOOK",
+      "name": "Chefland Library",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:15:45"
+    },
+    {
+      "code": "DEPCHEF",
+      "name": "Deputy Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:16:52"
+    },
+    {
+      "code": "BUDGET25",
+      "name": "Budget Allotment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:17:59"
     }
   ]
 }
