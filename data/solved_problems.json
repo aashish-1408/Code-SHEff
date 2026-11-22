@@ -1,5 +1,5 @@
 {
-  "total_solved": 1015,
+  "total_solved": 1020,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1015,7 +1015,12 @@
     "STRNO",
     "LOSELESS",
     "MATDIF",
-    "PLMU"
+    "PLMU",
+    "SULIM",
+    "MARBLES",
+    "FALSNUM",
+    "NOTDIVISIBLE",
+    "FILLGRID"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8163,6 +8168,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-22 17:08:15"
+    },
+    {
+      "code": "SULIM",
+      "name": "Sugar Limit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:29:44"
+    },
+    {
+      "code": "MARBLES",
+      "name": "Marbles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:31:20"
+    },
+    {
+      "code": "FALSNUM",
+      "name": "False Number",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-22 20:33:31"
+    },
+    {
+      "code": "NOTDIVISIBLE",
+      "name": "Not Divisible",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:35:04"
+    },
+    {
+      "code": "FILLGRID",
+      "name": "The Grid Fill Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 20:36:43"
     }
   ]
 }
