@@ -1,5 +1,5 @@
 {
-  "total_solved": 1010,
+  "total_solved": 1013,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1010,7 +1010,10 @@
     "BUDGET25",
     "ACMDT",
     "DISPAL",
-    "FINALSUM"
+    "FINALSUM",
+    "DISTOPPSUMS",
+    "STRNO",
+    "LOSELESS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8122,6 +8125,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 22:31:28"
+    },
+    {
+      "code": "DISTOPPSUMS",
+      "name": "Distinct Opposite Sums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 12:53:51"
+    },
+    {
+      "code": "STRNO",
+      "name": "Strange Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-22 12:54:54"
+    },
+    {
+      "code": "LOSELESS",
+      "name": "Lose Less",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-22 12:57:03"
     }
   ]
 }
