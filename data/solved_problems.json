@@ -1,5 +1,5 @@
 {
-  "total_solved": 1013,
+  "total_solved": 1015,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1013,7 +1013,9 @@
     "FINALSUM",
     "DISTOPPSUMS",
     "STRNO",
-    "LOSELESS"
+    "LOSELESS",
+    "MATDIF",
+    "PLMU"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1056,7 +1058,8 @@
     "CHEFEZQ",
     "DSACPR66",
     "ANDOR",
-    "CRZBISHOP"
+    "CRZBISHOP",
+    "CHRISCANDY"
   ],
   "history": [
     {
@@ -8146,6 +8149,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-22 12:57:03"
+    },
+    {
+      "code": "MATDIF",
+      "name": "Difference Matrix",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-22 17:06:14"
+    },
+    {
+      "code": "PLMU",
+      "name": "Plus Multiply",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-22 17:08:15"
     }
   ]
 }
