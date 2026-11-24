@@ -1,5 +1,5 @@
 {
-  "total_solved": 1029,
+  "total_solved": 1030,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1029,7 +1029,8 @@
     "MAKEPAL2",
     "INFERNO",
     "FRIMEET",
-    "POSPROD"
+    "POSPROD",
+    "STUDVOTE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1079,7 +1080,10 @@
     "NODESDIST",
     "PRINTINGBIN",
     "SMILEY",
-    "CHEFIZZA"
+    "CHEFIZZA",
+    "BUYING2",
+    "FIRSTGEO",
+    "LIFTME"
   ],
   "history": [
     {
@@ -8281,6 +8285,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 03:34:04"
+    },
+    {
+      "code": "STUDVOTE",
+      "name": "Drumpf for President!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 15:24:22"
     }
   ]
 }
