@@ -1,5 +1,5 @@
 {
-  "total_solved": 1027,
+  "total_solved": 1029,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1027,7 +1027,9 @@
     "BINARYSUM",
     "CAPPLE",
     "MAKEPAL2",
-    "INFERNO"
+    "INFERNO",
+    "FRIMEET",
+    "POSPROD"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8265,6 +8267,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 01:19:15"
+    },
+    {
+      "code": "FRIMEET",
+      "name": "Friends Meetup",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 03:30:37"
+    },
+    {
+      "code": "POSPROD",
+      "name": "Positive Products",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 03:34:04"
     }
   ]
 }
