@@ -1,5 +1,5 @@
 {
-  "total_solved": 1037,
+  "total_solved": 1040,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1037,7 +1037,10 @@
     "P4149",
     "SIGNMOVE",
     "BIGSALE",
-    "P2235"
+    "P2235",
+    "SEDARR",
+    "SPLITIT",
+    "SORTPREF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1093,7 +1096,8 @@
     "LIFTME",
     "BBXJG01",
     "RYCARDS",
-    "MAXREM"
+    "MAXREM",
+    "PERMCREATE"
   ],
   "history": [
     {
@@ -8351,6 +8355,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-25 19:13:51"
+    },
+    {
+      "code": "SEDARR",
+      "name": "Sed Sequences",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 22:51:45"
+    },
+    {
+      "code": "SPLITIT",
+      "name": "Split the Str Ing",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 22:52:40"
+    },
+    {
+      "code": "SORTPREF",
+      "name": "Sorting Prefixes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 22:54:17"
     }
   ]
 }
