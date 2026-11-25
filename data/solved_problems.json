@@ -1,5 +1,5 @@
 {
-  "total_solved": 1036,
+  "total_solved": 1037,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1036,7 +1036,8 @@
     "CHFTIRED",
     "P4149",
     "SIGNMOVE",
-    "BIGSALE"
+    "BIGSALE",
+    "P2235"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8343,6 +8344,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-25 01:39:12"
+    },
+    {
+      "code": "P2235",
+      "name": "Recover Palindrome",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-25 19:13:51"
     }
   ]
 }
