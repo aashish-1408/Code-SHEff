@@ -1,5 +1,5 @@
 {
-  "total_solved": 1035,
+  "total_solved": 1036,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1035,7 +1035,8 @@
     "PRODUCT",
     "CHFTIRED",
     "P4149",
-    "SIGNMOVE"
+    "SIGNMOVE",
+    "BIGSALE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1088,7 +1089,8 @@
     "CHEFIZZA",
     "BUYING2",
     "FIRSTGEO",
-    "LIFTME"
+    "LIFTME",
+    "BBXJG01"
   ],
   "history": [
     {
@@ -8332,6 +8334,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 23:20:40"
+    },
+    {
+      "code": "BIGSALE",
+      "name": "A Big Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-25 01:39:12"
     }
   ]
 }
