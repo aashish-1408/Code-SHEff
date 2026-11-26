@@ -1,5 +1,5 @@
 {
-  "total_solved": 1040,
+  "total_solved": 1044,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1040,7 +1040,11 @@
     "P2235",
     "SEDARR",
     "SPLITIT",
-    "SORTPREF"
+    "SORTPREF",
+    "ODDEVENDIV",
+    "DWNLD",
+    "COUNTAB",
+    "SKIPONE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8376,6 +8380,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-25 22:54:17"
+    },
+    {
+      "code": "ODDEVENDIV",
+      "name": "Check Odd Even Divisors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 01:12:30"
+    },
+    {
+      "code": "DWNLD",
+      "name": "Download file",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 01:14:23"
+    },
+    {
+      "code": "COUNTAB",
+      "name": "Counting Characters ",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-26 01:17:01"
+    },
+    {
+      "code": "SKIPONE",
+      "name": "Skip one",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 01:19:00"
     }
   ]
 }
