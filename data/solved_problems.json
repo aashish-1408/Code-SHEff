@@ -1,5 +1,5 @@
 {
-  "total_solved": 1050,
+  "total_solved": 1055,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1050,7 +1050,12 @@
     "CARRCOL",
     "NUMGAME",
     "EVENGAME",
-    "SPLITMAX"
+    "SPLITMAX",
+    "BAKECAKE2",
+    "CHEFDETE",
+    "DISCHAR",
+    "SUBSUM3",
+    "TWONMS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8457,6 +8462,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-26 19:02:40"
+    },
+    {
+      "code": "BAKECAKE2",
+      "name": "Chef Bakes Cake 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 22:38:52"
+    },
+    {
+      "code": "CHEFDETE",
+      "name": "Chef-Detective",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 22:41:17"
+    },
+    {
+      "code": "DISCHAR",
+      "name": "Distinct Characters Subsequence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 22:42:23"
+    },
+    {
+      "code": "SUBSUM3",
+      "name": "Subset Sum 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 22:43:42"
+    },
+    {
+      "code": "TWONMS",
+      "name": "Two Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 22:45:51"
     }
   ]
 }
