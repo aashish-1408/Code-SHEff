@@ -1,5 +1,5 @@
 {
-  "total_solved": 1046,
+  "total_solved": 1050,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1046,7 +1046,11 @@
     "COUNTAB",
     "SKIPONE",
     "NOFIX",
-    "ROCPAPSCI"
+    "ROCPAPSCI",
+    "CARRCOL",
+    "NUMGAME",
+    "EVENGAME",
+    "SPLITMAX"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1103,7 +1107,8 @@
     "BBXJG01",
     "RYCARDS",
     "MAXREM",
-    "PERMCREATE"
+    "PERMCREATE",
+    "BILLRD"
   ],
   "history": [
     {
@@ -8424,6 +8429,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-26 14:33:45"
+    },
+    {
+      "code": "CARRCOL",
+      "name": "Carrot Collection",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 18:57:22"
+    },
+    {
+      "code": "NUMGAME",
+      "name": "Yet Another Number Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 18:59:07"
+    },
+    {
+      "code": "EVENGAME",
+      "name": "Even Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 19:01:29"
+    },
+    {
+      "code": "SPLITMAX",
+      "name": "Split and Maximize",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 19:02:40"
     }
   ]
 }
