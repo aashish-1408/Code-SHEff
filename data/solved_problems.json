@@ -1,5 +1,5 @@
 {
-  "total_solved": 1044,
+  "total_solved": 1046,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1044,7 +1044,9 @@
     "ODDEVENDIV",
     "DWNLD",
     "COUNTAB",
-    "SKIPONE"
+    "SKIPONE",
+    "NOFIX",
+    "ROCPAPSCI"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8408,6 +8410,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-26 01:19:00"
+    },
+    {
+      "code": "NOFIX",
+      "name": "Avoid Fixed Points",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 14:31:06"
+    },
+    {
+      "code": "ROCPAPSCI",
+      "name": "Rock Paper Scissors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-26 14:33:45"
     }
   ]
 }
