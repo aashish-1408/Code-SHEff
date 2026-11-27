@@ -1,5 +1,5 @@
 {
-  "total_solved": 1060,
+  "total_solved": 1063,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1060,7 +1060,10 @@
     "LOSTSEQ",
     "MTE",
     "CHOCUT",
-    "CHEFPRMS"
+    "CHEFPRMS",
+    "BAB_I",
+    "P3235",
+    "MAKEPALAGAIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8537,6 +8540,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-27 14:34:29"
+    },
+    {
+      "code": "BAB_I",
+      "name": "Chef And Babla",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 18:50:41"
+    },
+    {
+      "code": "P3235",
+      "name": "Balanced Positions in a Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 18:52:19"
+    },
+    {
+      "code": "MAKEPALAGAIN",
+      "name": "Yet Another Palindrome Making Problem",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-27 18:56:53"
     }
   ]
 }
