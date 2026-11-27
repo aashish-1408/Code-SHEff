@@ -1,5 +1,5 @@
 {
-  "total_solved": 1055,
+  "total_solved": 1058,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1055,7 +1055,10 @@
     "CHEFDETE",
     "DISCHAR",
     "SUBSUM3",
-    "TWONMS"
+    "TWONMS",
+    "KNIGHT2",
+    "LOSTSEQ",
+    "MTE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8497,6 +8500,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-26 22:45:51"
+    },
+    {
+      "code": "KNIGHT2",
+      "name": "Journey of the Knight",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 01:10:39"
+    },
+    {
+      "code": "LOSTSEQ",
+      "name": "Careless Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 01:12:21"
+    },
+    {
+      "code": "MTE",
+      "name": "Make Them Equal",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-27 01:14:15"
     }
   ]
 }
