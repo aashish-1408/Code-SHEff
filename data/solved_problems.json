@@ -1,5 +1,5 @@
 {
-  "total_solved": 1058,
+  "total_solved": 1060,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1058,7 +1058,9 @@
     "TWONMS",
     "KNIGHT2",
     "LOSTSEQ",
-    "MTE"
+    "MTE",
+    "CHOCUT",
+    "CHEFPRMS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8521,6 +8523,20 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-27 01:14:15"
+    },
+    {
+      "code": "CHOCUT",
+      "name": "Chococut",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-27 14:25:39"
+    },
+    {
+      "code": "CHEFPRMS",
+      "name": "Chef and Semi-Primes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 14:34:29"
     }
   ]
 }
