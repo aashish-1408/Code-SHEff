@@ -1,5 +1,5 @@
 {
-  "total_solved": 1063,
+  "total_solved": 1065,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1063,7 +1063,9 @@
     "CHEFPRMS",
     "BAB_I",
     "P3235",
-    "MAKEPALAGAIN"
+    "MAKEPALAGAIN",
+    "DISTSUB",
+    "EQUALSTRING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8561,6 +8563,20 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-11-27 18:56:53"
+    },
+    {
+      "code": "DISTSUB",
+      "name": "Distinct Substring",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 22:22:46"
+    },
+    {
+      "code": "EQUALSTRING",
+      "name": "Equal Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-27 22:24:09"
     }
   ]
 }
