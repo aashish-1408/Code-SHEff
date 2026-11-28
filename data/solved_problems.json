@@ -1,5 +1,5 @@
 {
-  "total_solved": 1067,
+  "total_solved": 1070,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1067,7 +1067,10 @@
     "DISTSUB",
     "EQUALSTRING",
     "WALK",
-    "THREEPOW2"
+    "THREEPOW2",
+    "EZSPK",
+    "FAKEGCD",
+    "DELDIF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1125,7 +1128,8 @@
     "RYCARDS",
     "MAXREM",
     "PERMCREATE",
-    "BILLRD"
+    "BILLRD",
+    "PARTSCORE"
   ],
   "history": [
     {
@@ -8593,6 +8597,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-28 00:44:44"
+    },
+    {
+      "code": "EZSPK",
+      "name": "Easy Speaking",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 13:40:31"
+    },
+    {
+      "code": "FAKEGCD",
+      "name": "Fake GCD",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 13:44:18"
+    },
+    {
+      "code": "DELDIF",
+      "name": "Deletion and Difference",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 13:45:16"
     }
   ]
 }
