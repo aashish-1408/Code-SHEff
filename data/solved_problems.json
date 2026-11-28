@@ -1,5 +1,5 @@
 {
-  "total_solved": 1065,
+  "total_solved": 1067,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -1065,7 +1065,9 @@
     "P3235",
     "MAKEPALAGAIN",
     "DISTSUB",
-    "EQUALSTRING"
+    "EQUALSTRING",
+    "WALK",
+    "THREEPOW2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -8577,6 +8579,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-27 22:24:09"
+    },
+    {
+      "code": "WALK",
+      "name": "Walk",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 00:43:24"
+    },
+    {
+      "code": "THREEPOW2",
+      "name": "Three Powers of Two",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-28 00:44:44"
     }
   ]
 }
